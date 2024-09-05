@@ -1,0 +1,20 @@
+.WelcomeMessage{
+    color: white;
+    font-size: 22px;
+}
+
+.textMedium{
+    font-size: 15px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.todo-button{
+    background: #8758ff;
+    color: #fff;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 3px;
+    margin:10px 0px ;
+}
